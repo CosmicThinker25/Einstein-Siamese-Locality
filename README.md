@@ -1,6 +1,6 @@
 # Einstein Locality in CPT-Siamese Universes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18218360.svg)](https://doi.org/10.5281/zenodo.18218360)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18223246.svg)](https://doi.org/10.5281/zenodo.18223246)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Geometric resolution of Bell's theorem restoring Einstein locality via CPT-Siamese dual universes.**
@@ -39,6 +39,10 @@ The LaTeX source code is located in the root directory.
 
         Note: The code uses the float package to ensure strict image placement.
 
+📜 License
+
 This project is licensed under the MIT License.
 
 Copyright (c) 2026 CosmicThinker25.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, subject to the conditions of the MIT License. See the LICENSE file for full details.
